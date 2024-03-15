@@ -1,1 +1,1 @@
-# lif_neuron
+this is about stimulating a lif neuron with spikes
